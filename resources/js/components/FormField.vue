@@ -249,9 +249,6 @@ export default {
 .multiselect{
   justify-content: normal !important;
 }
-.multiselect__tags{
-  border:none !important;
-}
 
 .multiselect__placeholder {
   font-size: 1rem;
